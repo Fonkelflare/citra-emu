@@ -1,0 +1,8 @@
+[   0.083649] Input <Info> input_common/udp/client.cpp:StartCommunication:206: Starting communication with UDP input server on 127.0.0.1:26760
+[   0.135700] Frontend <Info> citra_qt/main.cpp:GMainWindow:237: Citra Version: Nightly 2099 | HEAD-d857743
+[   0.135717] Frontend <Info> citra_qt/main.cpp:GMainWindow:252: Host CPU: Intel(R) Core(TM) i7-14700K | AVX2 | FMA
+[   0.135883] Frontend <Info> citra_qt/main.cpp:GMainWindow:254: Host OS: Windows 11 Version 23H2 (Build 22631.3155)
+[   0.135897] Frontend <Info> citra_qt/main.cpp:GMainWindow:257: Host RAM: 31.75 GiB
+[   0.135900] Frontend <Info> citra_qt/main.cpp:GMainWindow:258: Host Swap: 11.14 GiB
+[   0.248258] Frontend <Warning> citra_qt/main.cpp:CheckForUpdates:1033: Unable to start check for updates
+[   0.248258] Frontend <Warning> citra_qt/main.cpp:CheckForUpdates:1033: Unable to start check for updates
