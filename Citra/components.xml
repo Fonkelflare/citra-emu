@@ -1,0 +1,19 @@
+<Packages>
+    <ApplicationName>Citra</ApplicationName>
+    <ApplicationVersion>1.0.0</ApplicationVersion>
+    <Package>
+        <Name>org.citra.nightly.mingw</Name>
+        <Title>Citra Nightly</Title>
+        <Description>
+      The nightly builds of Citra are official, tested versions of Citra that are known to work.
+      (msys2, commit: nightly-2099, release date: 2024-02-23)
+    </Description>
+        <SortingPriority>0</SortingPriority>
+        <TreeName moveChildren="false"></TreeName>
+        <Version>2099</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2024-02-23</InstallDate>
+        <Size>182471463</Size>
+        <Checkable>true</Checkable>
+    </Package>
+</Packages>

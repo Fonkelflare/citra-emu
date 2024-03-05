@@ -1,0 +1,146 @@
+************************************* Invoked: ven. févr. 16 11:50:32 2024
+[0] Arguments: C:\Users\Rayan\Downloads\citra-setup-windows.exe
+[2] Operations sanity check succeeded.
+[5] Using metadata cache from "C:/Users/Rayan/AppData/Local/cache\\qt-installer-framework\\b65cb026-b96f-347e-bb2c-635db96819c0"
+[5] Found 0 cached items.
+[5] Language: fr-FR
+[2083] Récuperation des dernières informations de mise a jour...
+[3110] Extraction des métadonnées depuis le référentiel distant...
+[3216] Extraction des métadonnées...
+[3228] Mise à jour du cache local avec 1 nouvel élément...
+[3233] Chargement des scripts du composant...
+[6230] Chargement des scripts du composant...
+[10453] Composants sélectionnés sans dépendances :
+org.citra.nightly.mingw
+[10454] Installation space required: "190.16 Mo" Temporary space required: "39.21 Mo" Local repository size: "0.00 octets"
+[10459] Cache and install directories are on the same volume. Volume mount point: "C:\\" Free space available: "406.28 Go"
+[11399] backup  operation: Mkdir
+[11399] 	- arguments: C:/Users/Rayan/AppData/Local/Citra
+[11399] Done
+[11399] perform  operation: Mkdir
+[11399] 	- arguments: C:/Users/Rayan/AppData/Local/Citra
+[11399] Done
+[11399] Préparation de l’installation...
+[11399] Install size: 1 components
+[11400] Téléchargement des paquetages...
+[11401] Téléchargement de l’archive "2095citra-windows-msys2-20240213-5e02be7.7z" pour le composant Citra Nightly.
+[13094] Préparation du déballage des composants...
+[13095] backup org.citra.nightly.mingw concurrent operation: Extract
+[13095] 	- arguments: installer://org.citra.nightly.mingw/2095citra-windows-msys2-20240213-5e02be7.7z, C:/Users/Rayan/AppData/Local/Citra
+[13095] Started
+[13097] Déballage des composants...
+[13098] perform org.citra.nightly.mingw concurrent operation: Extract
+[13098] 	- arguments: installer://org.citra.nightly.mingw/2095citra-windows-msys2-20240213-5e02be7.7z, C:/Users/Rayan/AppData/Local/Citra
+[13098] Started
+[14941] Installation du composant Citra Nightly
+[14941] backup org.citra.nightly.mingw operation: CreateShortcut
+[14941] 	- arguments: C:/Users/Rayan/AppData/Local/Citra/nightly/citra-qt.exe, C:\Users\Rayan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Citra/Citra Nightly.lnk, workingDirectory=C:/Users/Rayan/AppData/Local/Citra/nightly
+[14941] Done
+[14941] perform org.citra.nightly.mingw operation: CreateShortcut
+[14941] 	- arguments: C:/Users/Rayan/AppData/Local/Citra/nightly/citra-qt.exe, C:\Users\Rayan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Citra/Citra Nightly.lnk
+[14982] Done
+[14983] backup org.citra.nightly.mingw operation: License
+[14983] 	- arguments:
+[14983] Done
+[14983] perform org.citra.nightly.mingw operation: License
+[14983] 	- arguments:
+[14984] Done
+[14988] Writing maintenance tool: "C:/Users/Rayan/AppData/Local/Citra/maintenancetool.exe.new"
+[14988] Écriture de l’outil de maintenance.
+[15109] Wrote permissions for maintenance tool.
+[15146] Maintenance tool hard restart: false.
+[15147] Installation terminée !
+************************************* Invoked: ven. févr. 16 11:51:13 2024
+[0] Arguments: C:\Users\Rayan\AppData\Local\Citra\maintenancetool.exe, --checkupdates
+[15] Operations sanity check succeeded.
+[17] Using metadata cache from "C:/Users/Rayan/AppData/Local/cache\\qt-installer-framework\\b65cb026-b96f-347e-bb2c-635db96819c0"
+[17] Found 1 cached items.
+[18] Command line interface initialized but no command argument found.
+[18] Fetching latest update information...
+[640] Warning: There are currently no updates available.
+************************************* Invoked: ven. févr. 23 20:14:14 2024
+[0] Arguments: C:\Users\Rayan\AppData\Local\Citra\maintenancetool.exe, --checkupdates
+[45] Operations sanity check succeeded.
+[51] Using metadata cache from "C:/Users/Rayan/AppData/Local/cache\\qt-installer-framework\\b65cb026-b96f-347e-bb2c-635db96819c0"
+[51] Found 1 cached items.
+[51] Command line interface initialized but no command argument found.
+[52] Fetching latest update information...
+[1021] Retrieving meta information from remote repository...
+[1134] Extracting meta information...
+[1146] Updating local cache with 1 new items...
+[1151] Warning: Cannot open "C:/Users/Rayan/AppData/Local/cache/qt-installer-framework/b65cb026-b96f-347e-bb2c-635db96819c0/916852ba9ab2124adec9b85a7d57fad65608f849/repository.txt" for reading: "Le fichier spécifié est introuvable."
+[1151] Warning: Cannot open "C:/Users/Rayan/AppData/Local/cache/qt-installer-framework/b65cb026-b96f-347e-bb2c-635db96819c0/5496ae19dd94d65d203da9b7a9b6b9fdbeed660d/repository.txt" for reading: "Le fichier spécifié est introuvable."
+[1165] Loading component scripts...
+[1184] Loading component scripts...
+************************************* Invoked: ven. févr. 23 20:14:20 2024
+[0] Arguments: C:\Users\Rayan\AppData\Local\Citra\maintenancetool.exe, --updater
+[3] Operations sanity check succeeded.
+[11] Using metadata cache from "C:/Users/Rayan/AppData/Local/cache\\qt-installer-framework\\b65cb026-b96f-347e-bb2c-635db96819c0"
+[11] Found 1 cached items.
+[11] Language: fr-FR
+[3279] Récuperation des dernières informations de mise a jour...
+[3890] Chargement des scripts du composant...
+[3891] Chargement des scripts du composant...
+[5919] Chargement des scripts du composant...
+[5920] Composants sélectionnés sans dépendances :
+org.citra.nightly.mingw
+[5920] Installation space required: "191.42 Mo" Temporary space required: "39.47 Mo" Local repository size: "0.00 octets"
+[5933] Cache and install directories are on the same volume. Volume mount point: "C:\\" Free space available: "351.01 Go"
+[6873] Install size: 1 components
+[6874] Préparation de l’installation...
+[6874] Téléchargement des paquetages...
+[6876] Téléchargement de l’archive "2099citra-windows-msys2-20240223-d857743.7z" pour le composant Citra Nightly.
+[8199] Suppression des composants désélectionnés...
+[8199] undo operation= "License"
+[8199] undo org.citra.nightly.mingw operation: License
+[8199] 	- arguments: C:/Users/Rayan/AppData/Local/Citra/Licenses
+[8205] Done
+[8205] undo operation= "MinimumProgress"
+[8205] undo operation= "CreateShortcut"
+[8205] undo org.citra.nightly.mingw operation: CreateShortcut
+[8205] 	- arguments: C:/Users/Rayan/AppData/Local/Citra/nightly/citra-qt.exe, C:\Users\Rayan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Citra/Citra Nightly.lnk
+[8206] Done
+[8206] undo operation= "Extract"
+[8206] undo org.citra.nightly.mingw operation: Extract
+[8206] 	- arguments: installer://org.citra.nightly.mingw/2095citra-windows-msys2-20240213-5e02be7.7z, C:/Users/Rayan/AppData/Local/Citra
+[8224] Done
+[8227] Préparation du déballage des composants...
+[8228] backup org.citra.nightly.mingw concurrent operation: Extract
+[8228] 	- arguments: installer://org.citra.nightly.mingw/2099citra-windows-msys2-20240223-d857743.7z, C:/Users/Rayan/AppData/Local/Citra
+[8228] Started
+[8230] Déballage des composants...
+[8230] perform org.citra.nightly.mingw concurrent operation: Extract
+[8230] 	- arguments: installer://org.citra.nightly.mingw/2099citra-windows-msys2-20240223-d857743.7z, C:/Users/Rayan/AppData/Local/Citra
+[8230] Started
+[9761] Installation du composant Citra Nightly
+[9761] backup org.citra.nightly.mingw operation: CreateShortcut
+[9761] 	- arguments: C:/Users/Rayan/AppData/Local/Citra/nightly/citra-qt.exe, C:\Users\Rayan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Citra/Citra Nightly.lnk, workingDirectory=C:/Users/Rayan/AppData/Local/Citra/nightly
+[9761] Done
+[9761] perform org.citra.nightly.mingw operation: CreateShortcut
+[9761] 	- arguments: C:/Users/Rayan/AppData/Local/Citra/nightly/citra-qt.exe, C:\Users\Rayan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Citra/Citra Nightly.lnk
+[9811] Done
+[9812] backup org.citra.nightly.mingw operation: License
+[9812] 	- arguments:
+[9812] Done
+[9812] perform org.citra.nightly.mingw operation: License
+[9812] 	- arguments:
+[9813] Done
+[9817] Mise à jour terminée !
+[11099] Maintenance tool hard restart: false.
+[12320] Récuperation des dernières informations de mise a jour...
+************************************* Invoked: ven. févr. 23 20:14:42 2024
+[0] Arguments: C:\Users\Rayan\AppData\Local\Citra\maintenancetool.exe, --checkupdates
+[12] Operations sanity check succeeded.
+[14] Using metadata cache from "C:/Users/Rayan/AppData/Local/cache\\qt-installer-framework\\b65cb026-b96f-347e-bb2c-635db96819c0"
+[14] Found 1 cached items.
+[14] Command line interface initialized but no command argument found.
+[15] Fetching latest update information...
+[257] Warning: There are currently no updates available.
+************************************* Invoked: mar. mars 5 19:22:55 2024
+[0] Arguments: C:\Users\Rayan\Downloads\citra-setup-windows.exe
+[3] Operations sanity check succeeded.
+[10] Using metadata cache from "C:/Users/Rayan/AppData/Local/cache\\qt-installer-framework\\b65cb026-b96f-347e-bb2c-635db96819c0"
+[10] Found 1 cached items.
+[10] Language: fr-FR
+[2315] Récuperation des dernières informations de mise a jour...
+[8315] Warning: Le téléchargement des métadonnées a été annulé.
